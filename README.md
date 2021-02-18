@@ -19,9 +19,7 @@ class l33t2k21:
 
     def __init__(self):
         self.username = 'l33t'
-        self.name = 'Thomas Jean-Pierre'
         self.web = 'https://clpkosh.ga'
-        self.snap = 'clpkosh'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS','Boostrap', 'VueJS'],
             'backend': ['Python', 'PHP', 'Flask', 'Laravel', 'NodeJS', 'Ruby'],
