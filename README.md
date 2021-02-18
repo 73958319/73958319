@@ -2,7 +2,7 @@
   <img
     src="https://raw.githubusercontent.com/73958319/73958319/main/signature.png"
   />
-  <p style="line-height: 100px;" align="center">
+  <p align="center">
   <img
     src="https://raw.githubusercontent.com/73958319/73958319/main/rainbow.gif"
   />
