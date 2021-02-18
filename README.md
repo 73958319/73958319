@@ -38,3 +38,8 @@ class l33t2k21:
 if __name__ == '__main__':
     me = l33t2k21()
 ```
+<br>
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" src="https://github-readme-stats.0b35k2.vercel.app/api?username=73958319&show_icons=true&hide_border=true&count_private=false">
+</details>
