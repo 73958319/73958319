@@ -22,8 +22,8 @@ class l33t2k21:
         self.web = 'https://clpkosh.ga'
         self.snap = 'clpkosh'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS','Boostrap', 'VueJS'],
+            'backend': ['Python', 'PHP', 'Flask', 'Laravel', 'NodeJS', 'Ruby'],
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Quick.DB'],
             'devops': ['Docker', 'Nginx', 'Red Hat', 'Digital Ocean', 'Apache2', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'VScode', 'VIM', 'Tor', 'Redis'],
