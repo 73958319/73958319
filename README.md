@@ -10,20 +10,20 @@
 </p>
 
 ```python
-class RafnixG:
+class l33t2k21:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.web = 'https://rafnixg.dev'
-        self.twitter = '@rafnixg'
+        self.username = 'l33t'
+        self.name = 'Thomas Jean-Pierre'
+        self.web = 'https://clpkosh.ga'
+        self.snap = 'clpkosh'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
             'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'database': ['MySQL', 'SQLite3', 'MongoDB', 'Quick.DB'],
+            'devops': ['Docker', 'Nginx', 'Red Hat', 'Digital Ocean', 'Apache2', 'Heroku', 'Ansible', 'Kubernetes'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'VScode', 'VIM', 'Tor', 'Redis'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux', 'mips']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
@@ -32,5 +32,5 @@ class RafnixG:
 
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me = l33t2k21()
 ```
