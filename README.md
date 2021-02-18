@@ -19,6 +19,7 @@ class l33t2k21:
 
     def __init__(self):
         self.username = 'l33t'
+        self.discord = 'l33t#0092'
         self.web = 'https://clpkosh.ga'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS','Boostrap', 'VueJS'],
