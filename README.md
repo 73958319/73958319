@@ -8,14 +8,10 @@
   />
   </p>
 </p>
-
-
 <p align="center">
+  <br>
     A 15 years-old OSS enthusiast always learning and searching new projects.
-    <br>
-    <br>
-    <br>
-    <br>
+       <br>
 </p>
 ```python
 class l33t2k21:
