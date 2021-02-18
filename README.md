@@ -14,10 +14,6 @@
 </p>
 <br>
 <br>
-<details>
-    <summary>:zap: Github Stats</summary>
-    <img align="left" src="https://github-readme-stats.0b35k2.vercel.app/api?username=73958319&show_icons=true&hide_border=true&count_private=false">
-</details>
 ```python
 class l33t2k21:
 
@@ -37,8 +33,12 @@ class l33t2k21:
 
     def __str__(self):
         return self.name
-
-
+        
 if __name__ == '__main__':
     me = l33t2k21()
 ```
+
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" src="https://github-readme-stats.0b35k2.vercel.app/api?username=73958319&show_icons=true&hide_border=true&count_private=false">
+</details>
