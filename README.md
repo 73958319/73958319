@@ -13,7 +13,6 @@
   </p>
 </p>
 <br>
-<br>
 ```python
 class l33t2k21:
 
