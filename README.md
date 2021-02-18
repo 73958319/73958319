@@ -6,7 +6,7 @@
     A 16 years-old OSS enthusiast always learning and searching new projects.
     <br>
 </p>
-  <p align="center" height="500vh">
+  <p align="center">
   <img
     src="https://raw.githubusercontent.com/73958319/73958319/main/rainbow.gif"
   />
@@ -39,3 +39,8 @@ class l33t2k21:
 if __name__ == '__main__':
     me = l33t2k21()
 ```
+ <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/73958319/73958319/main/rainbow.gif"
+  />
+  </p>
