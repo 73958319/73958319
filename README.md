@@ -10,10 +10,7 @@
 </p>
 <p align="center">
   <br>
-  <br>
-  <br>
     A 16 years-old OSS enthusiast always learning and searching new projects.
-  <br>
   <br>
   <br>
 </p>
