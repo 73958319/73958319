@@ -21,7 +21,7 @@ class l33t2k21:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
             'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Quick.DB'],
-            'devops': ['Docker', 'Nginx', 'Red Hat', 'Digital Ocean', 'Apache2', 'Heroku', 'Ansible', 'Kubernetes'],
+            'devops': ['Docker', 'Nginx', 'Red Hat', 'Digital Ocean', 'Apache2', 'Heroku', 'Ansible'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'VScode', 'VIM', 'Tor', 'Redis'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux', 'mips']
         }
