@@ -16,7 +16,6 @@
 </details>
 <details>
   <summary>:dvd: Spotify Now Playing</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=73958319&show_icons=true&theme=tokyonight
-  "> 
+  <img src="[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)"> 
   </details>
  
