@@ -14,6 +14,6 @@
 </details>
 <details>
   <summary>:dvd: Spotify Now Playing</summary>
-  <img src="[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)"> 
+  <img src="[(https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)"> 
   </details>
  
