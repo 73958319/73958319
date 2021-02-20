@@ -15,5 +15,9 @@
 </details>
 <details>
   <summary>:dvd: Spotify Now Playing</summary>
-  <img src="[(https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)"> 
-  </details>
+  <img src="[(https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)">
+</details>
+```python
+s = "Python syntax highlighting"
+print s
+```
