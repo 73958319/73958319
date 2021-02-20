@@ -28,7 +28,7 @@ class readme:
         }
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS','Boostrap', 'VueJS'],
-            'backend': ['Python', 'PHP', 'Flask', 'Laravel', 'NodeJS', 'Ruby'],
+            'backend': ['Python', 'PHP', 'NodeJS', 'TypeScript'],
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Quick.DB'],
             'devops': ['Docker', 'Nginx', 'Red Hat', 'Digital Ocean', 'Apache2', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'VScode', 'VIM', 'Tor', 'Redis'],
