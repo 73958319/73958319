@@ -9,10 +9,9 @@
   <br>
 </p>
 <br />
-<br />
 <details>
   <summary>:satellite: Website</summary>
-  <img src="[https://novatorem.vercel.app/api/spotify](https://open.spotify.com/user/omnitenebris)">
+  <img src="https://giphy.com/gifs/3o72FkiKGMGauydfyg/html5">
 </details>
 <details>
 <summary>:zap: Github Stats</summary>
