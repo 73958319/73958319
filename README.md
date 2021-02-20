@@ -10,7 +10,7 @@
 </p>
 <br>
 <details>
-  <summary>:dvd: Website</summary>
+  <summary>:satellite: Website</summary>
   <img src="[(https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)">
 </details>
 <details>
