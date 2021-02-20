@@ -8,7 +8,6 @@
     A 16 years-old OSS enthusiast always learning and searching new projects.
   <br>
 </p>
-<br>
 <details>
   <summary>:satellite: Website</summary>
   <img src="[(https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)">
@@ -21,4 +20,3 @@
   <summary>:dvd: Spotify Now Playing</summary>
   <img src="[(https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)">
 </details>
-<br>
