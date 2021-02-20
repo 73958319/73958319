@@ -11,6 +11,10 @@
 <br />
 <details>
   <summary>:satellite: Website</summary>
+  <img src="[https://novatorem.vercel.app/api/spotify](https://open.spotify.com/user/omnitenebris)">
+</details>
+<details>
+  <summary>:joystick: Discord Profile</summary>
   <img src="[(https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)">
 </details>
 <details>
