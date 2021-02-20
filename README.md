@@ -9,9 +9,10 @@
   <br>
 </p>
 <br />
+<br />
 <details>
   <summary>:satellite: Website</summary>
-  <img src="https://giphy.com/gifs/3o72FkiKGMGauydfyg/html5">
+  <img src="https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif">
 </details>
 <details>
 <summary>:zap: Github Stats</summary>
