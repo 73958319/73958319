@@ -19,7 +19,7 @@
 </details>
 <details>
   <summary>:joystick: Discord Profile</summary>
-  <img src="[(https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)">
+  <img src="https://discord-github-stats.herokuapp.com/api/profile">
 </details>
 <details>
   <summary>:dvd: Spotify Now Playing</summary>
