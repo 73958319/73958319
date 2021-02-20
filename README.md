@@ -32,9 +32,9 @@ class readme:
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Quick.DB'],
             'devops': ['Docker', 'Nginx', 'Red Hat', 'Digital Ocean', 'Apache2', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'VScode', 'VIM', 'Tor', 'Redis'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux', 'mips']
+            'misc': ['Firebase', 'GNU/Linux', 'mips']
         }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+        self.architecture = ['Serverless', 'microservices']
 
         def __str__(self):
             return self.name
